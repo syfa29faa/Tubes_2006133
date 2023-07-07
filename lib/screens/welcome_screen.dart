@@ -28,7 +28,7 @@ class WelcomeScreen extends StatelessWidget {
                       ));
                 },
                 child: Text(
-                  "SKIP",
+                  "KLIK",
                   style: TextStyle(
                     color: Color(0xFF7165D6),
                     fontSize: 20,
